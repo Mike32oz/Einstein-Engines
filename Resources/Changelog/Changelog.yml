@@ -13605,3 +13605,116 @@ Entries:
   id: 7020
   time: '2025-03-23T10:24:02.0000000+00:00'
   url: https://github.com/Simple-Station/Einstein-Engines/pull/2037
+- author: EctoplasmIsGood
+  changes:
+    - type: Add
+      message: >-
+        Borgs now have a law 0 dictating they must follow the Station AIs
+        commands
+    - type: Tweak
+      message: Station AI now spawns with NT Default rather than Asimov
+    - type: Tweak
+      message: Slightly increases the chances of ion storm
+  id: 7021
+  time: '2025-03-23T22:09:21.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2064
+- author: SolarisBirb
+  changes:
+    - type: Fix
+      message: Removed massive texture bloat.
+  id: 7022
+  time: '2025-03-24T02:46:11.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2070
+- author: EctoplasmIsGood
+  changes:
+    - type: Tweak
+      message: Space Ninja gear is now unremovable
+    - type: Tweak
+      message: Space Ninja can now eat through their helmet/mask
+    - type: Tweak
+      message: Energy katana deflect chance from 30% to 50%
+    - type: Remove
+      message: >-
+        Removes the shuriken spawn ability, as it has not functioned for ages,
+        and I'm too lazy to fix it
+  id: 7023
+  time: '2025-03-24T03:10:13.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2039
+- author: SolarisBirb
+  changes:
+    - type: Tweak
+      message: Turrets will now shoot lings except for NT turrets.
+  id: 7024
+  time: '2025-03-24T16:02:24.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2071
+- author: VMSolidus
+  changes:
+    - type: Add
+      message: >-
+        Added Anchor, a new midpop map for 20 or more players created by the SiN
+        Mapping Team.
+  id: 7025
+  time: '2025-03-24T20:02:06.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2068
+- author: SolarisBirb
+  changes:
+    - type: Fix
+      message: >-
+        Arrows now embed correctly to targets instead of flying all around the
+        room.
+  id: 7026
+  time: '2025-03-24T21:15:10.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2075
+- author: Tirochora
+  changes:
+    - type: Fix
+      message: Plasmaman ancient envirohelms now properly display the sprite
+    - type: Fix
+      message: Basic colored envirohelms are no longer missing pixels on the sprite
+  id: 7027
+  time: '2025-03-25T08:34:02.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2078
+- author: VMSolidus
+  changes:
+    - type: Add
+      message: >-
+        Added back Bionic Legs. The trait has been reworked so that it makes you
+        start with one of your legs replaced with an actual speed legs
+        cyberware. 
+    - type: Add
+      message: >-
+        Bionic Arm now gives you an actual bionic arm. Have fun mugging people
+        for their cyberware so you can have a collection of fancy bionic limbs. 
+  id: 7028
+  time: '2025-03-25T08:38:42.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2056
+- author: Zeta_Null
+  changes:
+    - type: Add
+      message: 8 new facial hair options, 4 beards and 4 moustaches
+    - type: Add
+      message: Ported most of my hairstyles from N14
+  id: 7029
+  time: '2025-03-25T08:51:08.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2076
+- author: astriloqua
+  changes:
+    - type: Tweak
+      message: Proper offsets & BB for N14 Trees. Remap if they already were mapped.
+  id: 7030
+  time: '2025-03-25T08:52:33.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2069
+- author: astriloqua
+  changes:
+    - type: Tweak
+      message: N14 Counters now should be consistent across rotation
+  id: 7031
+  time: '2025-03-25T08:54:07.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2073
+- author: ilmenwe
+  changes:
+    - type: Add
+      message: BaseContainer ToList for both Switch cases using it.
+  id: 7032
+  time: '2025-03-25T08:56:28.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2041
