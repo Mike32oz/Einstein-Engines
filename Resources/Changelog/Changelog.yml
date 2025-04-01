@@ -14090,3 +14090,39 @@ Entries:
   id: 7067
   time: '2025-04-01T03:11:38.0000000+00:00'
   url: https://github.com/Simple-Station/Einstein-Engines/pull/2126
+- author: WarMechanic
+  changes:
+    - type: Add
+      message: >-
+        Added a trait 'Restricted Gear' which unlocks loadout job restrictions
+        at a significant price.
+  id: 7068
+  time: '2025-04-01T06:21:05.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/1317
+- author: EctoplasmIsGood
+  changes:
+    - type: Tweak
+      message: Give changelings a secret weight, so hopefully they actually pop up now
+    - type: Tweak
+      message: Added changelings and bloodcult to all at once
+  id: 7069
+  time: '2025-04-01T06:25:03.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2130
+- author: dootythefrooty
+  changes:
+    - type: Add
+      message: >-
+        A new pet has been added to loadouts. Squackroaches are gremlin-bird
+        beasts that sing and talk to harpies!
+  id: 7070
+  time: '2025-04-01T06:27:55.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2125
+- author: GNUtopia
+  changes:
+    - type: Fix
+      message: Fixed IPCs losing control of their brain when gibbed
+    - type: Fix
+      message: Fixed IPC brains being unable to be surgically inserted/removed
+  id: 7071
+  time: '2025-04-01T06:28:50.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2123
