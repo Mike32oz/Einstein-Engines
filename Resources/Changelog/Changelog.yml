@@ -14580,3 +14580,65 @@ Entries:
   id: 7110
   time: '2025-04-06T21:04:32.0000000+00:00'
   url: https://github.com/Simple-Station/Einstein-Engines/pull/2190
+- author: Will-Oliver-Br
+  changes:
+    - type: Fix
+      message: Fix the office chair sprite overlapping the character when facing south
+  id: 7111
+  time: '2025-04-08T06:27:42.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2189
+- author: kosticia and Will-Oliver-Br
+  changes:
+    - type: Tweak
+      message: Hi-viz now glows in the dark
+  id: 7112
+  time: '2025-04-08T06:29:12.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2183
+- author: ilmenwe
+  changes:
+    - type: Add
+      message: cache for parallax shader isntance.
+    - type: Remove
+      message: 500 calls/sec from parallax overlay to shader*.Instance();
+  id: 7113
+  time: '2025-04-08T06:30:48.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2178
+- author: EctoplasmIsGood
+  changes:
+    - type: Add
+      message: >-
+        Lumenblast shells, more powerful beanbag rounds with a flash effect on
+        impact
+    - type: Add
+      message: >-
+        Security can now take a sawn off shotgun as a duty weapon; it comes with
+        4 lumenblast shells, two already loaded
+    - type: Tweak
+      message: Flares can be loaded into the flare gun
+  id: 7114
+  time: '2025-04-08T20:14:20.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2157
+- author: GNUtopia
+  changes:
+    - type: Add
+      message: Added morphine
+    - type: Add
+      message: Added syringe case
+    - type: Add
+      message: Added analgesic medipen
+    - type: Add
+      message: Added emergency nitrous oxide tank
+    - type: Tweak
+      message: Added pain pens to advanced medipen kits
+    - type: Tweak
+      message: (Re?)enabled surgery pain moodlet
+  id: 7115
+  time: '2025-04-08T21:03:21.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2198
+- author: VMSolidus
+  changes:
+    - type: Add
+      message: Added new lobby art courtesy of LeonardoDaBepis
+  id: 7116
+  time: '2025-04-08T21:05:04.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2177
